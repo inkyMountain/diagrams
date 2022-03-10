@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T06:02:47.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="5_YeQ-BvFF3yw1jHi27x" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T06:05:32.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="mgvd-IWLLd5P4gnYzvVq" version="17.1.0" type="github">
   <diagram id="EjBYFH3cvIH1BqLcsaRZ" name="Page-1">
     <mxGraphModel dx="947" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-2" value="&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;verdana&amp;#34; ; font-weight: 700&quot;&gt;页面级Vue组件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="130" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uGyrDWlN7VPIvdm_TZpX-39" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="uGyrDWlN7VPIvdm_TZpX-3" target="uGyrDWlN7VPIvdm_TZpX-22">
+        <mxCell id="uGyrDWlN7VPIvdm_TZpX-39" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=-0.173;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryPerimeter=0;" edge="1" parent="1" source="uGyrDWlN7VPIvdm_TZpX-3" target="uGyrDWlN7VPIvdm_TZpX-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-3" value="&lt;font color=&quot;#555555&quot; face=&quot;verdana&quot;&gt;&lt;b&gt;NavBar.vue&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;direction=west;" vertex="1" parent="1">
@@ -44,13 +44,13 @@
           <mxGeometry x="670" y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-22" value="npm包1号" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="210" height="50" as="geometry" />
+          <mxGeometry x="110" y="213" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-28" value="NavBar.vue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uGyrDWlN7VPIvdm_TZpX-22">
           <mxGeometry y="30" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-29" value="npm包2号" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="770" y="90" width="210" height="90" as="geometry" />
+          <mxGeometry x="750" y="187" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-30" value="&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;verdana&amp;#34; ; font-weight: 700&quot;&gt;GoodsList.vue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uGyrDWlN7VPIvdm_TZpX-29">
           <mxGeometry y="30" width="210" height="20" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry y="70" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-35" value="npm包3号" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="405" y="480" width="210" height="50" as="geometry" />
+          <mxGeometry x="405" y="440" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uGyrDWlN7VPIvdm_TZpX-37" value="&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;verdana&amp;#34; ; font-weight: 700&quot;&gt;GoodsCard.vue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uGyrDWlN7VPIvdm_TZpX-35">
           <mxGeometry y="30" width="210" height="20" as="geometry" />
